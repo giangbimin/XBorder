@@ -108,4 +108,4 @@ For transferring data and enabling USB communication between devices, the follow
 
 - [USB Serial for Android](https://github.com/mik3y/usb-serial-for-android)  
 - [Android External USBIP](https://github.com/trevd/android_external_usbip)  
-
+- [OpenMTP - Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp)
